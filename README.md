@@ -30,3 +30,4 @@ less/more : to view the content of a file
 head : to display the top 10 lines of a file
 tail : to display the last 10 lines of a file
 head/tail -(number of lines required): eaxmple head -5 --> will display top 5 lines, tail -5 will display last 5 lines
+git
